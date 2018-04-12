@@ -104,9 +104,9 @@ social_icons:
   transition: false
   # Icon Mappings.
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
-  GitHub: https://github.com/karellincoln
-  E-Mail: 2218374291@qq
-  Google: karellincoln@gmail.com
+  GitHub: github
+  E-Mail: envelope
+  Google: google
   Twitter: twitter
   FB Page: facebook
   VK Group: vk
